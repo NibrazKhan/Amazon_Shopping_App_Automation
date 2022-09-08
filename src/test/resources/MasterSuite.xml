@@ -1,0 +1,12 @@
+<suite thread-count="1" verbose="1" name="Amazon Shopping App Automation">
+    <test name="Login Module">
+        <classes>
+            <class name="testRunner.LoginTestRunner"/>
+        </classes>
+    </test>
+    <test name="PurchaseModule">
+        <classes>
+            <class name="testRunner.PurchaseRunner"/>
+        </classes>
+    </test>
+</suite>
