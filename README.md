@@ -36,8 +36,8 @@ Here the following tasks are done:
   "platformName": "Android",
   "uuid": Enter your uuid here,
   "platformVersion": Enter your android version,
-  "appPackage": "com.continuum.emi.calculator",
-  "appActivity": "com.finance.emicalci.activity.Splash_screnn"
+  "appPackage": "com.amazon.mShop.android.shopping",
+  "appActivity": "com.amazon.mShop.splashscreen.StartupActivity"
 
 ```
 - Click **Start Server**.
