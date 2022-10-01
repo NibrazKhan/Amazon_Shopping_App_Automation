@@ -24,7 +24,7 @@ Here the following tasks are done:
 
 ### Project Run
 
-#### Appium
+#### Appium and Android Studio
 - Turn on **Developer Options** on your android phone
 - Connect your android phone with USB cable/ Create an emulated virtual device via Android Studio and run it.
 - Open cmd and give ```adb devices``` command to get uuid.
